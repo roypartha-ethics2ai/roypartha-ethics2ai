@@ -1,3 +1,6 @@
+<img src="assets/ethics2ai-banner.png" alt="ethics2ai: Editorial Frameworks for Equitable AI" width="800"/>
+
+
 # 🧭 ethics2ai: Editorial Frameworks for Equitable AI
 
 ## 📌 Overview
