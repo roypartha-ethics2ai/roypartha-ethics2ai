@@ -1,5 +1,6 @@
-<img src="assets/ethics2ai-banner.png" alt="ethics2ai: Editorial Frameworks for Equitable AI" width="800"/>
-
+<p align="center">
+  <img src="./ethics2ai-banner.png" alt="Ethics2AI Banner" width="100%">
+</p>
 
 # 🧭 ethics2ai: Editorial Frameworks for Equitable AI
 
