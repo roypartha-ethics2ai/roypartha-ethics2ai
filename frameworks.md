@@ -22,14 +22,15 @@ This folder contains reproducible ethical models, annotation guidelines, and civ
 
 ---
 
-## Included Files
+## 📂 Included Files
 
-| File Name                      | Description                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|
-| `inclusive_annotation.md`     | Guidelines for equity-first annotation practices                           |
-| `growth_equity_model.md`      | Conceptual framework linking AI growth to civic inclusivity                |
-| `editorial_ethics_checklist.md` | A checklist for ethical clarity in dataset creation and prompt design     |
-| `frameworks_overview.md`      | This file—explaining the purpose and structure of the folder               |
+| File Name | Description |
+|-----------|-------------|
+| [inclusive_annotation.md](inclusive_annotation.md) | Guidelines for equity-first annotation practices |
+| [growth_equity_model.md](growth_equity_model.md) | Conceptual framework linking AI growth to civic inclusivity |
+| [editorial_ethics_checklist.md](editorial_ethics_checklist.md) | A checklist for ethical clarity in dataset creation and prompt design |
+| [frameworks_overview.md](frameworks_overview.md) | This file — explaining the purpose and structure of the folder |
+
 
 ---
 
