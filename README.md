@@ -34,11 +34,10 @@ To ensure that the future we build is not just intelligent—but wise.
 | Folder/File         | Purpose                                                                 |
 |---------------------|-------------------------------------------------------------------------|
 | `abstracts/`        | Editorial drafts and philosophical abstracts for journal submission     |
-| `frameworks/`       | Ethical models and annotation guidelines for inclusive AI               |
-| `visuals/`          | Branding assets and symbolic motifs (e.g., Saturn rings, justice scales)|
+| `frameworks/`       | Ethical models and annotation guidelines for inclusive AI               | 
 | `citations/`        | BibTeX, APA, and MLA-ready citation files                               |
 | `LICENSE`           | MIT License for open scholarly use                                      |
-| `README.md`         | This manifesto and guide                                                 |
+| `README.md`         | This manifesto and guide                                                 
 
 ---
 
