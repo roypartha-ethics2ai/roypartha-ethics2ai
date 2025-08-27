@@ -4,12 +4,14 @@
 
 # 🧭 ethics2ai: Editorial Frameworks for Equitable AI
 
-# ethics2ai: Editorial Frameworks for Equitable AI
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Citations](https://img.shields.io/badge/Citations-BibTeX%2C%20APA%2C%20MLA-blue.svg)](https://github.com/ParthaRoyEthics/ethics2ai#citation-formats)
-[![Ethics First](https://img.shields.io/badge/Ethics-First-critical.svg)](https://github.com/ParthaRoyEthics/ethics2ai#editorial-ethics)
-[![Precision Matters](https://img.shields.io/badge/Precision-Matters-important.svg)](https://github.com/ParthaRoyEthics/ethics2ai#editorial-clarity)
+[![Citations](https://img.shields.io/badge/Citations-BibTeX%2C%20APA%2C%20MLA-blue.svg)](#citation-formats)
+[![Ethics First](https://img.shields.io/badge/Ethics-First-critical.svg)](#editorial-ethics)
+[![Precision Matters](https://img.shields.io/badge/Precision-Matters-important.svg)](#editorial-clarity)
+
+---
+
+
 
 
 ## 📌 Overview
