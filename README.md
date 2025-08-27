@@ -4,6 +4,14 @@
 
 # 🧭 ethics2ai: Editorial Frameworks for Equitable AI
 
+# ethics2ai: Editorial Frameworks for Equitable AI
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Citations Ready](https://img.shields.io/badge/Citations-BibTeX%2C%20APA%2C%20MLA-blue)
+![Ethics-First](https://img.shields.io/badge/AI-Ethics%20First-purple)
+![Editorial Clarity](https://img.shields.io/badge/Editorial-Precision%20Matters-orange)
+
+
 ## 📌 Overview
 
 **ethics2ai** is a living repository dedicated to the editorial, philosophical, and civic scaffolding of artificial intelligence. It is built by Partha Roy—freelance AI ethicist, editorial strategist, and civic scholar—during a critical Saturnian phase of resilience and legacy-building.
