@@ -5,13 +5,22 @@
 # 🧭 ethics2ai: Editorial Frameworks for Equitable AI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Citations](https://img.shields.io/badge/Citations-BibTeX%2C%20APA%2C%20MLA-blue.svg)](#citation-formats)
-[![Ethics First](https://img.shields.io/badge/Ethics-First-critical.svg)](#editorial-ethics)
-[![Precision Matters](https://img.shields.io/badge/Precision-Matters-important.svg)](#editorial-clarity)
-
+[![Citation Formats](https://img.shields.io/badge/Citation-BibTeX%2C%20APA%2C%20MLA-blue.svg)](#citation-formats)
+[![Editorial Ethics](https://img.shields.io/badge/Ethics-Editorial-red.svg)](#editorial-ethics)
+[![Clarity Matters](https://img.shields.io/badge/Clarity-Precision%20Matters-orange.svg)](#editorial-clarity)
 ---
 
+## Citation Formats
+BibTeX, APA, and MLA templates available for reuse and citation.  
+You can also find citation-ready metadata in the Zenodo and SSRN mirrors.
 
+## Editorial Ethics
+This archive centers dharmic integrity, civic empowerment, and annotation ethics.  
+It invites researchers and annotators to reflect on the irreplaceability of human effort.
+
+## Editorial Clarity
+Precision in language is treated as ethical scaffolding for AI development.  
+Each asset is curated to support reproducible, funder-ready scholarship.
 
 
 ## 📌 Overview
