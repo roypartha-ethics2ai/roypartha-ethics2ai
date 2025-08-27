@@ -6,10 +6,10 @@
 
 # ethics2ai: Editorial Frameworks for Equitable AI
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Citations Ready](https://img.shields.io/badge/Citations-BibTeX%2C%20APA%2C%20MLA-blue)
-![Ethics-First](https://img.shields.io/badge/AI-Ethics%20First-purple)
-![Editorial Clarity](https://img.shields.io/badge/Editorial-Precision%20Matters-orange)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Citations](https://img.shields.io/badge/Citations-BibTeX%2C%20APA%2C%20MLA-blue.svg)](https://github.com/ParthaRoyEthics/ethics2ai#citation-formats)
+[![Ethics First](https://img.shields.io/badge/Ethics-First-critical.svg)](https://github.com/ParthaRoyEthics/ethics2ai#editorial-ethics)
+[![Precision Matters](https://img.shields.io/badge/Precision-Matters-important.svg)](https://github.com/ParthaRoyEthics/ethics2ai#editorial-clarity)
 
 
 ## 📌 Overview
